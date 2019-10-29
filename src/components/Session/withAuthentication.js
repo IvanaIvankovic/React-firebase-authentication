@@ -10,7 +10,7 @@ const withAuthentication = Component => {
   
       this.state = {
         authUser: null,
-      };
+      }; 
     }
   
     componentDidMount() {
